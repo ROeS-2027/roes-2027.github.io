@@ -5,6 +5,9 @@ project:
   - fonts/*.*
   - img/*.*
 
+execute:
+  freeze: auto
+
 website:
   title: "ROeS 2027"
   cookie-consent:
@@ -20,6 +23,8 @@ website:
           href: index.qmd
         - text: "Committees"
           href: committees.qmd
+        - text: "Imprint"
+          href: imprint-and-privacy-policy.qmd
       - text: "Key Dates"
         href: key-dates.qmd
 
