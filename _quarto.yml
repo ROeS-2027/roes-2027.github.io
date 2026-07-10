@@ -22,8 +22,6 @@ website:
           href: committees.qmd
       - text: "Key Dates"
         href: key-dates.qmd
-  favicon: img/favicon.jpg
-
 
 format:
   html:
