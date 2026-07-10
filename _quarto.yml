@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+  - fonts/*.*
+  - img/*.*
+
+website:
+  title: "ROeS 2027"
+  cookie-consent:
+    type: express
+    style: headline
+    policy-url: https://www.roes2027.org/imprint-and-privacy-policy.html
+    prefs-text: "Cookie Preferences & Privacy Policy"
+  navbar:
+    left:
+      - text: "About"
+        menu: 
+        - text: "Overview"
+          href: index.qmd
+        - text: "Committees"
+          href: committees.qmd
+      - text: "Key Dates"
+        href: key-dates.qmd
+  favicon: img/favicon.jpg
+
+
+format:
+  html:
+    theme: 
+    - zephyr-black.scss
+    - custom.scss
+    css: styles.css
+    toc: true
+

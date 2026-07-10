@@ -1,0 +1,67 @@
+---
+format: 
+  html:
+    css: styles-index.css
+    toc: false
+include-in-header:
+  file: scripts.js
+title: "Home"
+pagetitle: "ROeS 2027 · 35th Conference of the Austro-Swiss Region (ROeS) of the IBS"
+lightbox: true
+---
+
+::: {.column-screen}
+```{=html}
+<section class="hero" style="background-image:url('img/ST_Bern-Rosengarten_36720_compressed.jpg');">
+  <div class="hero__scrim">
+    <div class="hero__content">
+      <p class="hero__eyebrow">15&ndash;19 August 2027 &nbsp;·&nbsp; Bern, Switzerland</p>
+      <h1 class="hero__title">35<sup>th</sup> Conference of the Austro-Swiss Region (ROeS)</h1>
+      <p class="hero__subtitle">of the International Biometric Society (IBS)</p>
+      <div class="hero__actions">
+        <a class="btn-cta" href="key-dates.html">Key Dates</a>
+        <a class="btn-cta btn-cta--ghost" href="committees.html">Committees</a>
+      </div>
+    </div>
+  </div>
+  <span class="hero__credit">© Bern Welcome</span>
+</section>
+```
+:::
+
+::: {.column-page}
+```{=html}
+<div class="facts">
+  <div class="fact">
+    <i class="bi bi-calendar-event"></i>
+    <span class="fact__label">When</span>
+    <span class="fact__value">15&ndash;19 August 2027</span>
+  </div>
+  <div class="fact">
+    <i class="bi bi-geo-alt"></i>
+    <span class="fact__label">Where</span>
+    <span class="fact__value">University of Bern<br>Switzerland</span>
+  </div>
+  <div class="fact">
+    <i class="bi bi-people"></i>
+    <span class="fact__label">Host</span>
+    <span class="fact__value">Austro-Swiss Region (ROeS)<br>of the IBS</span>
+  </div>
+</div>
+```
+:::
+
+::: {.column-page .news-section}
+
+::: {.callout-important}
+# Latest News
+
+**The ROeS 2027 website is up and the conference date and location are confirmed:**  
+The 35<sup>th</sup> Conference of the [Austro-Swiss Region (ROeS)](https://www.ibs-roes.org) of the [International Biometric Society (IBS)](https://www.biometricsociety.org) will take place from 15<sup>th</sup> to 19<sup>th</sup> August 2027, at the [**University of Bern**](https://www.unibe.ch) in [**Bern**](https://bern.com)**, Switzerland**.
+
+:::
+
+:::
+
+<!-- {{< include _sponsors.qmd >}} -->
+

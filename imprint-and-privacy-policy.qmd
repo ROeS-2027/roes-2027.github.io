@@ -1,0 +1,23 @@
+# Privacy Policy
+Please refer to the [IBS ROeS homepage](https://www.ibs-roes.org) for the [IBS ROeS legal information](https://www.ibs-roes.org/roes_legalinformation_overview.html) and [IBS ROeS Data Privacy Statement](https://www.ibs-roes.org/roes_data_privacy_statement.html) (in German only).
+
+This web page is [open-source](https://github.com/ROeS-2027/roes2027.github.io) and hosted on [Github Pages](https://pages.github.com/).  
+The Github Privacy Policy can be found on the [Github site policy page](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). 
+ 
+
+# Imprint
+
+## Society information
+IBS-ROeS. 
+c/o Michael Vock. 
+Institute of Mathematical Statistics and Actuarial Science. 
+University of Bern. 
+Alpeneggstrasse 22. 
+3012 Bern, Switzerland. 
+
+Email: [office@ibs-roes.org](mailto:office@ibs-roes.org)
+Website: [https://www.ibs-roes.org](https://www.ibs-roes.org)
+
+In Austria, ROeS is organized as a non-profit association under Austrian association law with its registered office in Innsbruck.
+
+ZVR: 933331531

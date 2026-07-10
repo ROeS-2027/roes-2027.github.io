@@ -1,0 +1,47 @@
+---
+format: 
+  html:
+    toc: false
+---
+```{=html}
+<style>
+#roes-2027-committees table colgroup col:first-child { width: 30% !important; }
+#roes-2027-committees table colgroup col:nth-child(2) { width: 70% !important; }
+</style>
+```
+
+# ROeS 2027 Committees
+
+```{r, echo=F, results=F, message=F, warning=F}
+library(tibble)
+library(dplyr)
+library(readxl)
+library(knitr)
+library(kableExtra)
+
+committees <- read_excel("data/committees.xlsx") |> arrange(last |> toupper())
+committees$name <- paste(committees$first, committees$last, sep = " ")
+
+print_committee <- function(data, title, cols=c("name", "institution")) {
+  data |> select(any_of(cols)) |>
+    kable( col.names = NULL) |>
+    add_header_above(title) |>
+    kable_styling(bootstrap_options = c("striped", "hover", "condensed"), full_width = TRUE)
+}
+```
+
+
+#### Local Organizing Committee
+```{r, echo=F, include=T, message=F, warning=F}
+committees |> 
+  filter(loc_chair == 1) |> 
+  print_committee(title=c("Chairs" = 2))
+```
+
+
+```{r, echo=F, include=T, message=F, warning=F}
+committees |> 
+  filter((loc == 1) & is.na(loc_chair)) |> 
+  print_committee(title=c("Members" = 2))
+```
+

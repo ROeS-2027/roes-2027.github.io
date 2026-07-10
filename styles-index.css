@@ -1,0 +1,199 @@
+/* ============================================================
+   Index / landing page
+   ============================================================ */
+
+/* Let the hero sit flush under the navbar */
+.content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+main.content {
+  padding-bottom: 0;
+}
+
+/* Hide the auto-generated title block (we render our own hero) */
+.quarto-title > h1.title {
+  opacity: 0 !important;
+}
+#title-block-header {
+  display: none;
+}
+
+/* ---------- Hero ---------- */
+.hero {
+  position: relative;
+  min-height: 74vh;
+  display: flex;
+  align-items: flex-end;
+  background-size: cover;
+  background-position: center 58%;
+  background-repeat: no-repeat;
+}
+
+.hero__scrim {
+  width: 100%;
+  padding: 6rem clamp(1.25rem, 6vw, 6rem) 3.75rem;
+  background: linear-gradient(
+    180deg,
+    rgba(13, 21, 18, 0) 0%,
+    rgba(13, 21, 18, 0.12) 38%,
+    rgba(13, 21, 18, 0.55) 72%,
+    rgba(13, 21, 18, 0.82) 100%
+  );
+}
+
+.hero__content {
+  max-width: 62rem;
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+}
+
+.hero__eyebrow {
+  display: inline-block;
+  margin: 0 0 1rem;
+  padding: 0.4rem 0.9rem;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #e9fbf3;
+  backdrop-filter: blur(2px);
+}
+
+.hero__title {
+  margin: 0 0 0.6rem;
+  color: #fff;
+  font-weight: 800;
+  line-height: 1.14;
+  font-size: clamp(1.9rem, 4.2vw, 3.15rem);
+  letter-spacing: -0.01em;
+  text-shadow: 0 2px 22px rgba(0, 0, 0, 0.4);
+}
+
+.hero__subtitle {
+  margin: 0 0 1.9rem;
+  font-size: clamp(1.05rem, 2vw, 1.5rem);
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.92);
+  text-shadow: 0 1px 14px rgba(0, 0, 0, 0.35);
+}
+
+.hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.85rem;
+}
+
+.btn-cta {
+  display: inline-block;
+  padding: 0.72rem 1.7rem;
+  border-radius: 999px;
+  border: 2px solid #2fb380;
+  background: #2fb380;
+  color: #fff !important;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 8px 22px rgba(47, 179, 128, 0.35);
+  transition: transform 0.15s ease, background 0.15s ease, border-color 0.15s ease;
+}
+.btn-cta:hover,
+.btn-cta:focus {
+  background: #279a6d;
+  border-color: #279a6d;
+  transform: translateY(-2px);
+  color: #fff !important;
+}
+.btn-cta--ghost {
+  background: transparent;
+  border-color: rgba(255, 255, 255, 0.8);
+  box-shadow: none;
+}
+.btn-cta--ghost:hover,
+.btn-cta--ghost:focus {
+  background: rgba(255, 255, 255, 0.14);
+  border-color: #fff;
+}
+
+.hero__credit {
+  position: absolute;
+  right: 0.9rem;
+  bottom: 0.55rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+/* ---------- Quick facts ---------- */
+.facts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin: 3.25rem auto 1rem;
+}
+
+.fact {
+  padding: 1.6rem 1.4rem;
+  background: #fff;
+  border: 1px solid #e9ecef;
+  border-radius: 16px;
+  text-align: center;
+  box-shadow: 0 4px 18px rgba(20, 30, 25, 0.05);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.fact:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(20, 30, 25, 0.1);
+}
+.fact .bi {
+  display: block;
+  margin-bottom: 0.65rem;
+  font-size: 1.75rem;
+  color: #2fb380;
+}
+.fact__label {
+  display: block;
+  margin-bottom: 0.3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #8a949c;
+}
+.fact__value {
+  display: block;
+  font-size: 1.04rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: #212529;
+}
+
+/* ---------- News callout ---------- */
+.news-section {
+  margin: 1.75rem auto 4rem;
+}
+.news-section .callout {
+  overflow: hidden;
+  border-radius: 16px;
+  box-shadow: 0 4px 18px rgba(20, 30, 25, 0.06);
+}
+.news-section .callout > .callout-header {
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 767px) {
+  .hero {
+    min-height: 62vh;
+  }
+  .hero__scrim {
+    padding-top: 4rem;
+  }
+  .facts {
+    grid-template-columns: 1fr;
+  }
+}
