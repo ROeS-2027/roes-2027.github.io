@@ -60,7 +60,8 @@ main.content {
   font-size: 0.8rem;
   font-weight: 600;
   color: #e9fbf3;
-  backdrop-filter: blur(2px);
+  background: rgba(13, 21, 18, 0.55);
+  backdrop-filter: blur(4px);
 }
 
 .hero__title {
