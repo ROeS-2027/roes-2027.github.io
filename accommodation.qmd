@@ -1,8 +1,11 @@
 ---
 title: "Accommodation"
+format:
   html:
     toc: false
 ---
+
+![The Zytglogge in summer &copy; Bern Welcome](img/Zytglogge_Sommer_c-Bern-Welcome-09_compressed.jpg){fig-alt="The Zytglogge clock tower in Bern on a sunny summer day" width=100%}
 
 For a holistic overview of hotels in Bern, please visit [bern.com's accommodation website](https://bern.com/en/inform/accommodations/).
 
@@ -22,5 +25,5 @@ If you are looking for "more-for-money" (i.e. cheaper) options, here is a list o
 ::: {.callout-important}
 ## Free public transport with the Bern-Ticket
 
-From your first overnight stay at any accommodation within the city of Bern, you will receive the **Bern-Ticket**, giving you free travel on trams, buses, and trains in the Libero network zones 100/101 ([network map](https://www.mylibero.ch/sites/default/files/2025-12/Liniennetz-Bern-2026_0.pdf) for the entire duration of your stay. Detailed information about the Bern-Ticket can be found [here](https://bern.com/en/inform/bern-ticket/bern-ticket-for-overnight-guests).
+From your first overnight stay at any accommodation within the city of Bern, you will receive the **Bern-Ticket**, giving you free travel on trams, buses, and trains in the Libero network zones 100/101 ([network map](https://www.mylibero.ch/sites/default/files/2025-12/Liniennetz-Bern-2026_0.pdf)) for the entire duration of your stay. Detailed information about the Bern-Ticket can be found [here](https://bern.com/en/inform/bern-ticket/bern-ticket-for-overnight-guests).
 :::
