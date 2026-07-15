@@ -13,7 +13,7 @@ website:
   cookie-consent:
     type: express
     style: headline
-    policy-url: https://www.roes2027.org/imprint-and-privacy-policy.html
+    policy-url: https://roes2027.org/imprint-and-privacy-policy.html
     prefs-text: "Cookie Preferences & Privacy Policy"
   navbar:
     left:
