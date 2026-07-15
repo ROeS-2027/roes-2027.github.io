@@ -67,6 +67,7 @@ jobs:
         uses: actions/deploy-pages@v5
 
   deploy-cloudflare:
+    needs: build
     runs-on: ubuntu-latest
     permissions:
       contents: read
