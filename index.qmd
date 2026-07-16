@@ -15,7 +15,7 @@ lightbox: true
 <section class="hero" style="background-image:url('img/ST_Bern-Rosengarten_36720_compressed.jpg');">
   <div class="hero__scrim">
     <div class="hero__content">
-      <p class="hero__eyebrow">15&ndash;19 August 2027 &nbsp;·&nbsp; Bern, Switzerland</p>
+      <p class="hero__eyebrow">16&ndash;19 August 2027 &nbsp;·&nbsp; Bern, Switzerland</p>
       <h1 class="hero__title">35<sup>th</sup> Conference of the Austro-Swiss Region (ROeS)</h1>
       <p class="hero__subtitle">of the International Biometric Society (IBS)</p>
       <div class="hero__actions">
@@ -35,7 +35,7 @@ lightbox: true
   <div class="fact">
     <i class="bi bi-calendar-event"></i>
     <span class="fact__label">When</span>
-    <span class="fact__value">15&ndash;19 August 2027</span>
+    <span class="fact__value">16&ndash;19 August 2027</span>
   </div>
   <div class="fact">
     <i class="bi bi-geo-alt"></i>
@@ -57,7 +57,7 @@ lightbox: true
 # Latest News
 
 **The ROeS 2027 website is up and the conference date and location are confirmed:**  
-The 35<sup>th</sup> Conference of the [Austro-Swiss Region (ROeS)](https://www.ibs-roes.org) of the [International Biometric Society (IBS)](https://www.biometricsociety.org) will take place from 15<sup>th</sup> to 19<sup>th</sup> August 2027, at the [**University of Bern**](https://www.unibe.ch) in [**Bern**](https://bern.com)**, Switzerland**.
+The 35<sup>th</sup> Conference of the [Austro-Swiss Region (ROeS)](https://www.ibs-roes.org) of the [International Biometric Society (IBS)](https://www.biometricsociety.org) will take place from 16<sup>th</sup> to 19<sup>th</sup> August 2027, at the [**University of Bern**](https://www.unibe.ch) in [**Bern**](https://bern.com)**, Switzerland**.
 
 :::
 

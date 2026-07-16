@@ -18,7 +18,7 @@ key_dates <- list(
   "Pre-conference Courses" = 
     tribble(
       ~ Item, ~ Date,
-      "Course date", ymd("2027-08-15")
+      "Course date", ymd("2027-08-16")
     ),
   "Conference" = 
     tribble(      
