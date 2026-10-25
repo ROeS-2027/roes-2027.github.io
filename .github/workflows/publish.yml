@@ -73,6 +73,8 @@ jobs:
         uses: actions/deploy-pages@v5
 
   deploy-cloudflare:
+    # Only the main repository has the Cloudflare secrets; skip on forks
+    if: github.repository == 'ROeS-2027/roes-2027.github.io'
     needs: build
     runs-on: ubuntu-latest
     permissions:

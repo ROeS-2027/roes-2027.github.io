@@ -162,7 +162,8 @@ $breadcrumb-divider:                quote(">") !default;
 
 // Variables
 
-$web-font-path: "/fonts/font.css" !default;
+// Relative to the compiled stylesheet in site_libs/bootstrap/, so the site also works under a sub-path
+$web-font-path: "../../fonts/font.css" !default;
 @if $web-font-path {
   @import url($web-font-path);
 }
