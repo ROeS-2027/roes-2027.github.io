@@ -1,0 +1,77 @@
+---
+title: "Sponsorship"
+format:
+  html:
+    toc: false
+---
+
+Partner with ROeS 2027 and connect with leading statisticians, data scientists and healthcare researchers from the Austro-Swiss region and beyond. The 35<sup>th</sup> ROeS Conference, *Augmenting Statistics: Better and Faster Data-Driven Decisions*, takes place from 16<sup>th</sup> to 19<sup>th</sup> August 2027 at the University of Bern, Switzerland.
+
+::: {.callout-note appearance="simple" icon=false}
+<i class="bi bi-file-earmark-pdf"></i> **Full details:** [Download the ROeS 2027 sponsorship prospectus (PDF)](data/ROeS%202027%20sponsorship%20BR_Sep22nd_Final.pdf){target="_blank"}
+:::
+
+## Why support ROeS 2027?
+
+```{=html}
+<div class="sponsor-why">
+  <div class="sponsor-why__item">
+    <i class="bi bi-people"></i>
+    <h3>~200 on-site participants</h3>
+    <p>Biostatisticians, data scientists, clinical trialists, epidemiologists, PhD students and early-career researchers from Switzerland, Austria, Europe and beyond.</p>
+  </div>
+  <div class="sponsor-why__item">
+    <i class="bi bi-bullseye"></i>
+    <h3>Targeted visibility</h3>
+    <p>Showcase your methodological leadership and data-driven solutions in an intimate setting.</p>
+  </div>
+  <div class="sponsor-why__item">
+    <i class="bi bi-arrow-left-right"></i>
+    <h3>Academic-industry synergy</h3>
+    <p>Engage directly with key quantitative researchers and decision-makers.</p>
+  </div>
+  <div class="sponsor-why__item">
+    <i class="bi bi-mortarboard"></i>
+    <h3>Empower early-career talent</h3>
+    <p>Contributions fund travel grants and keep registration fees accessible for PhD students.</p>
+  </div>
+</div>
+```
+
+## Sponsorship tiers
+
+```{=html}
+<div class="sponsor-tiers">
+  <div class="sponsor-tier sponsor-tier--silver">
+    <h3>Silver Partner</h3>
+    <p class="sponsor-tier__price">500 – 1,000 CHF</p>
+    <ul>
+      <li>Logo on website, screens and program book</li>
+    </ul>
+  </div>
+  <div class="sponsor-tier sponsor-tier--gold">
+    <h3>Gold Partner</h3>
+    <p class="sponsor-tier__price">&gt; 1,000 – 2,500 CHF</p>
+    <ul>
+      <li>Logo and hyperlink on website and on-site signage</li>
+      <li>Half-page digital program advertisement</li>
+      <li>Promotional flyer in delegate handout</li>
+    </ul>
+  </div>
+  <div class="sponsor-tier sponsor-tier--platinum">
+    <h3>Platinum Partner</h3>
+    <p class="sponsor-tier__price">&gt; 2,500 CHF</p>
+    <ul>
+      <li>Premium logo placement across all assets and signage</li>
+      <li>Full-page digital program advertisement</li>
+      <li>Flyer insert and custom delegate handout item</li>
+      <li>1 full-delegate pass included</li>
+      <li>Special recognition during social events</li>
+    </ul>
+  </div>
+</div>
+```
+
+## Contact
+
+Interested in supporting ROeS 2027? Please get in touch with **Nima Shariati** (Roche), Sponsorship Lead of ROeS 2027.

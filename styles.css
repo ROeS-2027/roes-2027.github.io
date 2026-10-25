@@ -114,3 +114,64 @@
 }
 
 
+
+/* ---------- Sponsorship page ---------- */
+.sponsor-why {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+.sponsor-why__item {
+  padding: 1.25rem;
+  background: #fff;
+  border: 1px solid #e9ecef;
+  border-radius: 14px;
+  box-shadow: 0 4px 18px rgba(2, 23, 81, 0.05);
+}
+.sponsor-why__item .bi {
+  font-size: 1.6rem;
+  color: #0239ce;
+}
+.sponsor-why__item h3 {
+  margin: 0.5rem 0 0.4rem;
+  font-size: 1.05rem;
+}
+.sponsor-why__item p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.sponsor-tiers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+.sponsor-tier {
+  padding: 1.4rem 1.25rem;
+  background: #fff;
+  border: 1px solid #e9ecef;
+  border-top: 6px solid var(--tier-color);
+  border-radius: 14px;
+  box-shadow: 0 4px 18px rgba(2, 23, 81, 0.06);
+}
+.sponsor-tier--silver   { --tier-color: #a8b0b9; }
+.sponsor-tier--gold     { --tier-color: #d4a017; }
+.sponsor-tier--platinum { --tier-color: #021751; }
+.sponsor-tier h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.2rem;
+}
+.sponsor-tier__price {
+  margin: 0 0 0.9rem;
+  font-weight: 700;
+  color: #0239ce;
+}
+.sponsor-tier ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+.sponsor-tier li {
+  margin-bottom: 0.35rem;
+}

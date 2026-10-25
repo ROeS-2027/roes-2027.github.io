@@ -4,6 +4,7 @@ project:
   resources:
   - fonts/*.*
   - img/*.*
+  - data/*.pdf
 
 execute:
   freeze: auto
@@ -26,6 +27,8 @@ website:
           href: index.qmd
         - text: "Committees"
           href: committees.qmd
+        - text: "Sponsorship"
+          href: sponsorship.qmd
         - text: "Imprint"
           href: imprint-and-privacy-policy.qmd
       - text: "Key Dates"
