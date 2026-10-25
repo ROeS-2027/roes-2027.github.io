@@ -65,21 +65,6 @@ main.content {
   height: auto;
 }
 
-.hero__eyebrow {
-  display: inline-block;
-  margin: 0 0 1rem;
-  padding: 0.4rem 0.9rem;
-  border: 1px solid rgba(255, 255, 255, 0.35);
-  border-radius: 999px;
-  text-transform: uppercase;
-  letter-spacing: 0.16em;
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: #eef4ff;
-  background: rgba(2, 23, 81, 0.6);
-  backdrop-filter: blur(4px);
-}
-
 .hero__title {
   margin: 0 0 0.6rem;
   color: #fff;
