@@ -10,12 +10,15 @@ execute:
 
 website:
   title: "ROeS 2027"
+  favicon: img/favicon.png
   cookie-consent:
     type: express
     style: headline
     policy-url: https://roes2027.org/imprint-and-privacy-policy.html
     prefs-text: "Cookie Preferences & Privacy Policy"
   navbar:
+    logo: img/roes2027-mark.png
+    logo-alt: "ROeS 2027 logo"
     left:
       - text: "About ROeS 2027"
         menu: 

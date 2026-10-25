@@ -1,1 +1,37 @@
 /*-- scss:defaults --*/
+
+// ROeS 2027 brand palette (sampled from the logo)
+$brand-navy:       #021751;
+$brand-blue:       #0239ce;
+$brand-blue-dark:  #022a9c;
+$brand-sky:        #3499f1;
+$brand-red:        #ed0204;
+
+$primary:          $brand-blue;
+$info:             $brand-sky;
+$danger:           $brand-red;
+$link-color:       $brand-blue;
+$link-hover-color: $brand-blue-dark;
+$headings-color:   $brand-navy;
+
+$navbar-bg:        $brand-navy;
+$navbar-fg:        #ffffff;
+$navbar-hl:        #ffffff;
+
+$dropdown-link-hover-bg: $brand-navy;
+
+/*-- scss:rules --*/
+
+.navbar-brand .navbar-logo {
+  max-height: 34px;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: $brand-sky !important;
+}
+
+.callout.callout-style-default.callout-important,
+.callout-important.callout {
+  border-left-color: $brand-red;
+}

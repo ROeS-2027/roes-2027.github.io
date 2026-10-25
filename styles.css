@@ -1,5 +1,5 @@
 /* css styles */
-.navbar {background-color: #000000 !important}
+.navbar {background-color: #021751 !important}
 .video__iframe {
   margin: 0 auto;
   display: block;
@@ -75,16 +75,16 @@
   transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
-/* Accept — site accent green */
+/* Accept — site accent blue */
 .termsfeed-com---nb .cc-nb-okagree {
-  background: #2fb380 !important;
-  border-color: #2fb380 !important;
+  background: #0239ce !important;
+  border-color: #0239ce !important;
   color: #fff !important;
 }
 .termsfeed-com---nb .cc-nb-okagree:hover,
 .termsfeed-com---nb .cc-nb-okagree:focus {
-  background: #279a6d !important;
-  border-color: #279a6d !important;
+  background: #022a9c !important;
+  border-color: #022a9c !important;
 }
 
 /* Decline — clearly visible outlined button */
@@ -109,7 +109,7 @@
 .termsfeed-com---nb .cc-nb-changep:hover,
 .termsfeed-com---nb .cc-nb-changep:focus {
   background: #f2f4f3 !important;
-  border-color: #2fb380 !important;
+  border-color: #0239ce !important;
   color: #212529 !important;
 }
 

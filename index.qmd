@@ -15,6 +15,12 @@ lightbox: true
 <section class="hero" style="background-image:url('img/ST_Bern-Rosengarten_36720_compressed.jpg');">
   <div class="hero__scrim">
     <div class="hero__content">
+      <div class="hero__logo-card">
+        <picture>
+          <source media="(min-width: 768px)" srcset="img/roes2027-logo-wide.png">
+          <img class="hero__logo" src="img/roes2027-logo-compact.png" alt="ROeS 2027 – Augmenting Statistics: Better and faster data-driven decisions. 16–19 August 2027, Bern, Switzerland">
+        </picture>
+      </div>
       <p class="hero__eyebrow">16&ndash;19 August 2027 &nbsp;·&nbsp; Bern, Switzerland</p>
       <h1 class="hero__title">35<sup>th</sup> Conference of the Austro-Swiss Region (ROeS)</h1>
       <p class="hero__subtitle">of the International Biometric Society (IBS)</p>
