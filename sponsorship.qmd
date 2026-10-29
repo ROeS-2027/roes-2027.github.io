@@ -8,7 +8,7 @@ format:
 Partner with ROeS 2027 and connect with leading statisticians, data scientists and healthcare researchers from the Austro-Swiss region and beyond. The 35<sup>th</sup> ROeS Conference, *Augmenting Statistics: Better and Faster Data-Driven Decisions*, takes place from 16<sup>th</sup> to 19<sup>th</sup> August 2027 at the University of Bern, Switzerland.
 
 ::: {.callout-note appearance="simple" icon=false}
-<i class="bi bi-file-earmark-pdf"></i> **Full details:** [Download the ROeS 2027 sponsorship prospectus (PDF)](data/ROeS%202027%20sponsorship%20BR_Sep22nd_Final.pdf){target="_blank"}
+<i class="bi bi-file-earmark-pdf"></i> **Full details:** [Download the ROeS 2027 sponsorship prospectus (PDF)](data/ROeS%202027%20sponsorship%20BR_Oct_25nd_Final.pdf){target="_blank"}
 :::
 
 ## Why support ROeS 2027?
@@ -74,4 +74,4 @@ Partner with ROeS 2027 and connect with leading statisticians, data scientists a
 
 ## Contact
 
-Interested in supporting ROeS 2027? Please get in touch with **Nima Shariati** (Roche), Sponsorship Lead of ROeS 2027.
+Interested in supporting ROeS 2027? Please get in touch with **Nima Shariati** (Roche), Sponsorship Lead of ROeS 2027, at [sponsoring@roes2027.org](mailto:sponsoring@roes2027.org)
