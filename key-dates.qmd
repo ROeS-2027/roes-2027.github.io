@@ -85,14 +85,14 @@ tidy_kable <- function(data, type) {
 ```
 
 
-## Pre-conference Course Submission
+## Pre-conference course submission
 
 ```{r echo=F, message=F, warning=F}
 key_dates[["Pre-conference Course Submission"]] |>
   tidy_kable()
 ```
 
-## Invited and Topic-contributed Session Submissions
+## Invited and topic-contributed session submissions
 
 ```{r echo=F, message=F, warning=F}
 key_dates[["Invited Sessions"]] |>
