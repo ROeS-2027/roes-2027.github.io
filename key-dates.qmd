@@ -29,9 +29,9 @@ key_dates <- list(
   "Pre-conference Course Submission" =
     tribble(
       ~ Item, ~ Date,
-      "Call", ymd("2024-10-04"),
-      "Deadline", ymd("2025-01-05"),
-      "Notifications sent", ymd("2025-02-11")
+      "Call", ymd("2026-10-30"),
+      "Deadline", ymd("2026-12-11"),
+      "Notifications sent", ymd("2026-12-23")
     ),
   "Abstract Submissions" =
     tribble(
@@ -61,8 +61,8 @@ key_dates <- list(
       "Deadline", ymd("2025-08-17"),
     )
 )
-  
 
+key_dates[["Invited Sessions"]] <- key_dates[["Pre-conference Course Submission"]]
 
 tidy_kable <- function(data, type) {
   if (class(data$Date[0]) == "Date") {
@@ -84,6 +84,21 @@ tidy_kable <- function(data, type) {
 
 ```
 
+
+## Pre-conference Course Submission
+
+```{r echo=F, message=F, warning=F}
+key_dates[["Pre-conference Course Submission"]] |>
+  tidy_kable()
+```
+
+## Invited and Topic-contributed Session Submissions
+
+```{r echo=F, message=F, warning=F}
+key_dates[["Invited Sessions"]] |>
+  tidy_kable()
+```
+
 ## Pre-conference courses
 
 ```{r echo=F, message=F, warning=F}
@@ -98,15 +113,9 @@ key_dates[["Conference"]] |>
   tidy_kable()
 ```
 
-<!-- ## Invited Sessions -->
-
-<!-- ```{r echo=F, message=F, warning=F} -->
-<!-- key_dates[["Invited Sessions"]] |> -->
-<!--   tidy_kable() -->
-<!-- ``` -->
 
 
-<!-- ## Pre-conference Courses -->
+
 
 <!-- ```{r echo=F, message=F, warning=F} -->
 <!-- tbl_data <-  -->
