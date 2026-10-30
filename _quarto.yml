@@ -31,6 +31,10 @@ website:
           href: sponsorship.qmd
         - text: "Imprint"
           href: imprint-and-privacy-policy.qmd
+      - text: "Conference Information"
+        menu:
+        - text: "Calls"
+          href: calls.qmd
       - text: "Key Dates"
         href: key-dates.qmd
       - text: "About Bern"

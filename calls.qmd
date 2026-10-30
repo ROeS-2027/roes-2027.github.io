@@ -1,0 +1,18 @@
+---
+format: 
+  html:
+    toc: false
+title: "Calls"
+---
+
+## Invited and topic-contributed sessions, short courses
+
+We are pleased to announce that the calls for invited and topic-contributed sessions as well as short courses are now open:
+
+- [Invited sessions](https://forms.gle/JwmWVzCDTVDsXjhp8)
+- [Topic-contributed sessions](https://forms.gle/uGpSh89nbCDEQbzF9)
+- [Short courses](https://forms.gle/Ai2H1gwDscnDWbFq9)
+
+Deadline for all three categories is Friday, December 11^th^, 2026 with notification of acceptance by Wednesday, December 23^rd^, 2026.
+
+If you have questions regarding the calls, please contact us at [organizers\@roes2027.org](mailto:organizers@roes2027.org){.email}
