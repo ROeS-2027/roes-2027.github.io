@@ -1,7 +1,9 @@
 ---
 format: 
   html:
-    toc: false
+    toc: true
+    toc-depth: 3
+    toc-expand: true
 title: "Calls"
 ---
 
@@ -9,10 +11,93 @@ title: "Calls"
 
 We are pleased to announce that the calls for invited and topic-contributed sessions as well as short courses are now open:
 
-- [Invited sessions](https://forms.gle/JwmWVzCDTVDsXjhp8)
-- [Topic-contributed sessions](https://forms.gle/uGpSh89nbCDEQbzF9)
-- [Short courses](https://forms.gle/Ai2H1gwDscnDWbFq9)
+- [Invited sessions](#invited-sessions)
+- [Topic-contributed sessions](#topic-contributed-sessions)
+- [Short courses](#short-courses)
 
 Deadline for all three categories is Friday, December 11^th^, 2026 with notification of acceptance by Wednesday, December 23^rd^, 2026.
 
 If you have questions regarding the calls, please contact us at [organizers\@roes2027.org](mailto:organizers@roes2027.org){.email}
+
+## Information required for submissions
+
+Proposals are submitted via the online forms linked in each section below. The information requested in each form is listed below so you can prepare your submission in advance. Fields marked with \* are mandatory.
+
+### Invited sessions
+
+[Submit an invited session proposal](https://forms.gle/JwmWVzCDTVDsXjhp8)
+
+**Organizer details**
+
+- Organizer name\* (first and last name)
+- Organizer affiliation\* (affiliation and address)
+- Organizer email\*
+
+**Session details**
+
+- Proposed title of the session\* (max. 100 characters)
+- Keywords\* (max. 5 keywords, separated by semicolons)
+- Session format\*, one of:
+  - One invited speaker (40 minutes) and three additional speakers (20 minutes each)
+  - One invited speaker (40 minutes), two additional speakers (20 minutes each) and a discussant (20 minutes)
+  - One invited speaker (40 minutes) and one additional speaker (20 minutes), followed by a panel discussion involving the speakers and up to three additional panellists (40 minutes)
+  - One invited speaker (40 minutes), followed by contributed talks selected from submitted abstracts
+- Proposed invited speaker\* (name, surname, affiliation, address)
+- Proposed additional speaker(s) (name, surname, affiliation, address)
+- Proposed discussant, if any (name, surname, affiliation, address)
+- Proposed panellist(s), if any (name, surname, affiliation, address)
+- Confirmation that not all speakers/discussants are from the same organisation\*
+- Why would this session be of interest to the participants of ROeS 2027?\* (up to 50 words)
+- Description of the session\* (up to 250 words)
+
+### Topic-contributed sessions
+
+[Submit a topic-contributed session proposal](https://forms.gle/uGpSh89nbCDEQbzF9)
+
+**Organizer details**
+
+- Organizer name\* (first and last name)
+- Organizer affiliation\* (affiliation and address)
+- Organizer email\*
+
+**Session details**
+
+- Title of the session\* (max. 100 characters)
+- Keywords\* (max. 5 keywords, separated by semicolons)
+- Session format\*, one of:
+  - Four contributed presentations: four speakers, 20 minutes each
+  - Three contributed presentations and discussion: three speakers, 20 minutes each, followed by a 20-minute discussion led by a discussant
+  - Contributed presentations and panel discussion: up to two speakers with a total of 40 minutes, followed by a 40-minute panel discussion with up to three additional panellists
+- Proposed contributed speakers\* (name, surname, affiliation, address)
+- Proposed discussant, if any (name, surname, affiliation, address)
+- Proposed additional panellist(s), if any (name, surname, affiliation, address)
+- Confirmation that not all speakers/discussant/panellists are from the same organisation\*
+- Why would this session be of interest to the participants of ROeS 2027?\* (up to 50 words)
+- Description of the session\* (up to 250 words)
+
+### Short courses
+
+[Submit a short course proposal](https://forms.gle/Ai2H1gwDscnDWbFq9)
+
+Short courses will take place on the morning of Monday, 16 August 2027, before the conference opens in the early afternoon.
+
+**Instructor details**
+
+- Instructor name\* (first and last name)
+- Instructor affiliation\* (affiliation and address)
+- Instructor email\*
+
+**Short course details**
+
+- Proposed title of the short course\* (max. 150 characters)
+- Keywords\* (max. 5 keywords, separated by semicolons)
+- Description\* (up to 2100 characters, approximately 350 words)
+- Why would the short course be of interest to the participants of ROeS 2027?\* (up to 50 words)
+- Is the course lecture-based, hands-on, or a combination of both?\* Optional comment (up to 50 words)
+- Courses are limited to 40 participants. Would you like to set a lower maximum number of participants?\* If yes, please indicate the maximum.
+- IT requirements for the short course\* (up to 2100 characters, approximately 350 words), e.g. participants need to bring their own laptop with software XYZ installed, or need access to a website/server XYZ during the course
+
+**Confirmation**
+
+- I understand that the reimbursement provided for a half-day course covers only one instructor.\*
+- I acknowledge that the conference organizers reserve the right to cancel an accepted short course if registration numbers are insufficient.\*
