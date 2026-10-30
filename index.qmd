@@ -62,7 +62,7 @@ lightbox: true
 # Latest News
 
 **The calls for invited sessions, topic-contributed sessions and short courses are now open:**  
-Submit your proposals for [invited sessions](https://forms.gle/JwmWVzCDTVDsXjhp8), [topic-contributed sessions](https://forms.gle/uGpSh89nbCDEQbzF9) and [short courses](https://forms.gle/Ai2H1gwDscnDWbFq9) by **Friday, 11<sup>th</sup> December 2026**. Notification of acceptance will follow by Wednesday, 23<sup>rd</sup> December 2026. See [Calls](calls.qmd) for details.
+Submit your proposals for [invited sessions](calls.qmd#invited-sessions), [topic-contributed sessions](calls.qmd#topic-contributed-sessions) and [short courses](calls.qmd#short-courses) by **Friday, 11<sup>th</sup> December 2026**. Notification of acceptance will follow by Wednesday, 23<sup>rd</sup> December 2026. See [Calls](calls.qmd) for details.
 
 **The ROeS 2027 website is up and the conference date and location are confirmed:**  
 The 35<sup>th</sup> Conference of the [Austro-Swiss Region (ROeS)](https://www.ibs-roes.org) of the [International Biometric Society (IBS)](https://www.biometricsociety.org) will take place from 16<sup>th</sup> to 19<sup>th</sup> August 2027, at the [**University of Bern**](https://www.unibe.ch) in [**Bern**](https://bern.com)**, Switzerland**.
