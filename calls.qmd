@@ -9,6 +9,8 @@ title: "Calls"
 
 ## Invited and topic-contributed sessions, short courses
 
+The 35^th^ Conference of the Austro-Swiss Region (ROeS), *Augmenting Statistics: Better and faster data-driven decisions*, will take place in Bern, Switzerland, from 16^th^ to 19^th^ August 2027.
+
 We are pleased to announce that the calls for invited and topic-contributed sessions as well as short courses are now open:
 
 - [Invited sessions](#invited-sessions)
@@ -19,13 +21,39 @@ Deadline for all three categories is Friday, December 11^th^, 2026 with notifica
 
 If you have questions regarding the calls, please contact us at [organizers\@roes2027.org](mailto:organizers@roes2027.org){.email}
 
-## Information required for submissions
+## Invited sessions
 
-Proposals are submitted via the online forms linked in each section below. The information requested in each form is listed below so you can prepare your submission in advance. Fields marked with \* are mandatory.
+<i class="bi bi-file-earmark-pdf"></i> [Download the call for invited sessions (PDF)](data/ROeS2027%20Call_for_Invited_Sessions_v29Oct2026.pdf){target="_blank"}
 
-### Invited sessions
+We invite proposals for invited sessions on topics related to the conference theme '*Augmenting Statistics: Better and faster data-driven decisions*'. Invited sessions are ***100 minutes*** long and typically feature one invited speaker and three additional speakers presenting contributed talks. Possible session formats include
 
-[Submit an invited session proposal](https://forms.gle/JwmWVzCDTVDsXjhp8)
+- One invited speaker (40 minutes), three additional speakers (20 minutes each)
+- One invited speaker (40 minutes), two additional speakers (20 minutes each) and a discussant (20 minutes)
+- One invited speaker (40 minutes), one additional speaker (20 minutes) followed by panel discussion involving the speakers and up to three additional panellists (40 minutes)
+- One invited speaker (40 minutes) followed by contributed talks selected from submitted abstracts
+
+The session organizer must confirm that all proposed speakers have agreed to participate. Once registration opens, all proposed speakers will be required to submit an abstract via the online submission system.
+
+Please note the following conditions:
+
+a) each speaker can give *only one talk* at the conference (this restriction does not apply to discussants or panellists);
+b) the registration fees will be waived for the invited speaker only (not for additional speakers, discussants and panellists);
+c) speakers should represent different organizations.
+
+The ROeS scientific committee reserves the right to give priority to fully planned invited sessions with all additional speakers nominated, over comparable proposals without nominated speakers.
+
+If an invited session is not selected, it might be converted into a topic-contributed session. In this case, the session will be shortened to 80 minutes, and the invited talk to 20 minutes.
+
+The ROeS organizers are committed to promoting diversity and inclusion in the scientific program. Please ensure that your proposal reflects this commitment by considering equitable geographical representation, gender balance, and diversity of career stages among the proposed speakers.
+
+Please submit proposals using the [online form](https://forms.gle/JwmWVzCDTVDsXjhp8). Please note that only fully completed proposals will be considered. For questions or technical assistance please contact [organizers\@roes2027.org](mailto:organizers@roes2027.org){.email}.
+
+**Deadline:** December 11, 2026  
+**Notification of acceptance:** December 23, 2026
+
+### Information requested in the online form
+
+Fields marked with \* are mandatory.
 
 **Organizer details**
 
@@ -50,9 +78,33 @@ Proposals are submitted via the online forms linked in each section below. The i
 - Why would this session be of interest to the participants of ROeS 2027?\* (up to 50 words)
 - Description of the session\* (up to 250 words)
 
-### Topic-contributed sessions
+## Topic-contributed sessions
 
-[Submit a topic-contributed session proposal](https://forms.gle/uGpSh89nbCDEQbzF9)
+<i class="bi bi-file-earmark-pdf"></i> [Download the call for topic-contributed sessions (PDF)](data/ROeS2027%20Call_for_TopicContributed_Sessions_v19Oct2026.pdf){target="_blank"}
+
+We invite proposals for topic-contributed sessions on topics related to the conference theme '*Augmenting Statistics: Better and faster data-driven decisions*'. Topic-contributed sessions are ***80 minutes*** long and feature four contributed speakers around a common topic. Possible session formats include
+
+- Four contributed speakers (20 minutes each)
+- Three contributed speakers (20 minutes each) and one discussant (20 minutes)
+- Up to two contributed speakers (40 minutes in total) and panel discussion with the speakers and up to three additional panellists (40 minutes)
+
+The session organizer must confirm that all proposed speakers have agreed to participate. Once registration opens, all proposed speakers will be required to submit an abstract via the online submission system.
+
+Please note the following conditions:
+
+a) each speaker can give *only one talk* at the conference (this restriction does not apply to discussants or panellists);
+b) please ensure that not all speakers in the session are from the same organization.
+
+The ROeS organizers are committed to promoting diversity and inclusion in the scientific program. Please ensure that your proposal reflects this commitment by considering equitable geographical representation, gender balance, and diversity of career stages among the proposed speakers.
+
+Please submit proposals using the [online form](https://forms.gle/uGpSh89nbCDEQbzF9). Please note that only fully completed proposals will be considered. For questions or technical assistance please contact [organizers\@roes2027.org](mailto:organizers@roes2027.org){.email}.
+
+**Deadline:** December 11, 2026  
+**Notification of acceptance:** December 23, 2026
+
+### Information requested in the online form
+
+Fields marked with \* are mandatory.
 
 **Organizer details**
 
@@ -75,11 +127,38 @@ Proposals are submitted via the online forms linked in each section below. The i
 - Why would this session be of interest to the participants of ROeS 2027?\* (up to 50 words)
 - Description of the session\* (up to 250 words)
 
-### Short courses
+## Short courses
 
-[Submit a short course proposal](https://forms.gle/Ai2H1gwDscnDWbFq9)
+<i class="bi bi-file-earmark-pdf"></i> [Download the call for short courses (PDF)](data/ROeS%202027%20Call_for_Short_Courses_v29Oct2026.pdf){target="_blank"}
 
-Short courses will take place on the morning of Monday, 16 August 2027, before the conference opens in the early afternoon.
+We invite proposals for half-day courses on topics related to the conference theme '*Augmenting Statistics: Better and faster data-driven decisions*'. Courses are typically delivered by a single instructor and may range from introductory sessions to advanced, specialized topics. Each course will consist of two 90-minute sessions and will take place on the morning of Monday 16^th^ August, ahead of the conference opening in the early afternoon.
+
+Our aim is to offer a diverse and engaging program that appeals to a broad audience, particularly students and early career researchers, and covers a wide range of statistical methods and application areas.
+
+Please submit your proposals via the [online form](https://forms.gle/Ai2H1gwDscnDWbFq9), including the following details:
+
+- Title of the course
+- Course instructor
+- Course description (including main topics and learning objectives; up to 350 words)
+- Prerequisite knowledge (the knowledge participants are expected to have; up to 150 words)
+- Maximum number of participants (optional)
+- Relevance to ROeS 2027 participants (why the course would be of interest to conference participants; up to 300 words)
+- Course format (lecture-based, hands-on, or a combination of both)
+
+Short course instructors will receive the following benefits: waived registration fees, complimentary attendance at the conference dinner, reimbursement for one night of accommodation (up to CHF 150) and travel expenses (up to CHF 150/400/750 for Austria/Europe/Intercontinental).
+
+The organisers reserve the right to cancel an accepted short course if registration numbers are insufficient. This decision will be made in May 2027, and the instructor will still be eligible to register for the conference at the early-bird rate.
+
+The ROeS organizers are committed to promoting diversity and inclusion in the scientific program. For questions or technical assistance, please contact [organizers\@roes2027.org](mailto:organizers@roes2027.org){.email}.
+
+Please note that only fully completed proposals will be considered.
+
+**Deadline:** December 11, 2026  
+**Notification of acceptance:** December 23, 2026
+
+### Information requested in the online form
+
+Fields marked with \* are mandatory.
 
 **Instructor details**
 
@@ -92,7 +171,8 @@ Short courses will take place on the morning of Monday, 16 August 2027, before t
 - Proposed title of the short course\* (max. 150 characters)
 - Keywords\* (max. 5 keywords, separated by semicolons)
 - Description\* (up to 2100 characters, approximately 350 words)
-- Why would the short course be of interest to the participants of ROeS 2027?\* (up to 50 words)
+- Prerequisite knowledge\* (the knowledge participants are expected to have; up to 150 words)
+- Why would the short course be of interest to the participants of ROeS 2027?\* (up to 300 words)
 - Is the course lecture-based, hands-on, or a combination of both?\* Optional comment (up to 50 words)
 - Courses are limited to 40 participants. Would you like to set a lower maximum number of participants?\* If yes, please indicate the maximum.
 - IT requirements for the short course\* (up to 2100 characters, approximately 350 words), e.g. participants need to bring their own laptop with software XYZ installed, or need access to a website/server XYZ during the course
