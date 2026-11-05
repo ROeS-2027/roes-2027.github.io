@@ -48,6 +48,9 @@ rsconnect/
 # Quarto cache
 /.quarto/
 
+# Word sources of published PDFs
+*.docx
+
 # MacOS DS store files
 **/.DS_Store
 **/*.quarto_ipynb
@@ -55,3 +58,6 @@ rsconnect/
 docs/
 
 _freeze/
+
+# Local-only files (e.g. Cloudflare email workers)
+_local/
